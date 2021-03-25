@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46600" started-at="2021-03-24T06:10:28Z" finished-at="2021-03-24T06:11:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46600" started-at="2021-03-24T06:10:28Z" finished-at="2021-03-24T06:11:15Z">
+      <class name="com.orangeHRM.testcases.LoginPageTest">
+        <test-method status="PASS" signature="loginRun()[pri:0, instance:com.orangeHRM.testcases.LoginPageTest@4667ae56]" name="loginRun" duration-ms="46543" started-at="2021-03-24T06:10:28Z" finished-at="2021-03-24T06:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginRun -->
+      </class> <!-- com.orangeHRM.testcases.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
